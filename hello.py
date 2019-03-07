@@ -74,3 +74,6 @@ else:
     print("a es mayor que 5")
 
 print(evaluacion(10))
+
+print ("hola mundo")
+print ("hola mundo")
