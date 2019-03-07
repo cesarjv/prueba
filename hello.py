@@ -13,6 +13,8 @@ def evaluacion(nota):
 res=suma(1,2)   # Guardando el valor que retorna la funcion despues de ejecutarse
 print(res)  
 
+print("Hola Mundo")
+
 miLista=["Maria",2,12.03,"Pepe"]
 print(miLista[:])
 
